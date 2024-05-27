@@ -65,7 +65,7 @@ namespace ProjectBD.Helper
             {
                 status = false,
                 result = 0,
-                message = "Lỗi " + result,
+                message = result,
                 _total = 1,
                 _page = 1,
                 _limit = 1
